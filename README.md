@@ -38,12 +38,13 @@ This project is a deep learning-based image classifier that identifies whether a
 
 ## Project Structure
 
+```bash
 cats-vs-dogs-cnn/
-├── cats_vs_dogs_cnn.ipynb # Main notebook
-├── cats_vs_dogs_cnn.h5 # Trained model file
-├── requirements.txt # Dependencies
-├── images/ # Sample outputs or graphs
-└── README.md # Project documentation
+├── cats_vs_dogs_cnn.ipynb      # Main notebook
+├── cats_vs_dogs_cnn.h5         # Trained model file
+├── requirements.txt            # Dependencies
+├── images/                     # Sample outputs or graphs
+└── README.md                   # Project documentation
 
 
 ## Sample Prediction
