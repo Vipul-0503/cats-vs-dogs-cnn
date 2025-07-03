@@ -54,18 +54,18 @@ Predicted: Dog
 
 ## How to Run
 
-**1. Clone the repository:**
+- **1. Clone the repository:**
    git clone https://github.com/yourusername/cats-vs-dogs-cnn.git
-**2. Install dependencies:**
+- **2. Install dependencies:**
    pip install -r requirements.txt
-**3. Open the notebook** `cats_vs_dogs_cnn.ipynb` in Jupyter Notebook or Google Colab.
-**4. Run all cells to train and evaluate the model.**
+- **3. Open the notebook** `cats_vs_dogs_cnn.ipynb` in Jupyter Notebook or Google Colab.
+- **4. Run all cells to train and evaluate the model.**
 
 ## References
 
-**- Kaggle Dogs vs Cats Dataset:** https://www.kaggle.com/competitions/dogs-vs-cats/data
-**- TensorFlow Documentation:** https://www.tensorflow.org/
-**- Keras API:** https://keras.io/
+- **Kaggle Dogs vs Cats Dataset:** https://www.kaggle.com/competitions/dogs-vs-cats/data
+- **TensorFlow Documentation:** https://www.tensorflow.org/
+- **Keras API:** https://keras.io/
 
 ## Conclusion
 
