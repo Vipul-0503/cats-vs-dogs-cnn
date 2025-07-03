@@ -45,7 +45,7 @@ cats-vs-dogs-cnn/
 ├── requirements.txt            # Dependencies
 ├── images/                     # Sample outputs or graphs
 └── README.md                   # Project documentation
-
+```
 
 ## Sample Prediction
 
