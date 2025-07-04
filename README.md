@@ -2,6 +2,8 @@
 
 This project is a deep learning-based image classifier that identifies whether an image contains a cat or a dog using a Convolutional Neural Network (CNN). It was developed as part of an internship project at IBM.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UYln97JjlgKneNU0QZ_aBz__yLj6pOy1?usp=sharing)
+
 ## Project Overview
 
 - Objective: Build a binary classifier for cats and dogs using image data.
