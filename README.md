@@ -29,8 +29,8 @@ This project is a deep learning-based image classifier that identifies whether a
 
 ## Model Performance
 
-- Training Accuracy: XX%
-- Validation Accuracy: XX%
+- Training Accuracy: 81.63%
+- Validation Accuracy: 	87.72%
 - Loss Function: Binary Crossentropy
 - Optimizer: Adam
 - Epochs: 10
