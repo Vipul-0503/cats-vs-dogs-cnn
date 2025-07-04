@@ -43,7 +43,7 @@ This project is a deep learning-based image classifier that identifies whether a
 ```bash
 cats-vs-dogs-cnn/
 ├── cats_vs_dogs_cnn.ipynb      # Main notebook
-├── cats_vs_dogs_cnn.h5         # Trained model file
+├── cats_vs_dogs_cnn.keras         # Trained model file
 ├── requirements.txt            # Dependencies
 ├── images/                     # Sample outputs or graphs
 └── README.md                   # Project documentation
@@ -58,9 +58,13 @@ Predicted: Dog
 ## How to Run
 
 - **1. Clone the repository:**
-   git clone https://github.com/Vipul-0503/cats-vs-dogs-cnn.git
+```bash
+  git clone https://github.com/Vipul-0503/cats-vs-dogs-cnn.git
+```
 - **2. Install dependencies:**
+  ```bash
    pip install -r requirements.txt
+  ```
 - **3. Open the notebook** `cats_vs_dogs_cnn.ipynb` in Jupyter Notebook or Google Colab.
 - **4. Run all cells to train and evaluate the model.**
 
